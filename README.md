@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **System design principles, patterns, TDD, how to improve as a developer.**
 
-- 📫 How to reach me **dlidstrom@gmail.com**
+- 📫 You can reach me at **dlidstrom@gmail.com**
 
 - ⚡ Fun fact **I’m an active bowler 🎳**
 
